@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Osmorc" name="OSGi">
+      <configuration manifestGenerationMode="OsmorcControlled" manifestLocation="" jarfileLocation="leshan-client-cf-1.0.0-SNAPSHOT.jar" outputPathType="CompilerOutputPath" bndFileLocation="" bundlorFileLocation="" bundleActivator="" bundleSymbolicName="leshan-client-cf" bundleVersion="1.0.0.SNAPSHOT" ignoreFilePattern="" useProjectDefaultManifestFileLocation="true" alwaysRebuildBundleJAR="false" doNotSynchronizeWithMaven="false">
+        <additionalProperties>
+          <property key="Bundle-Description" value="A transport implementation for leshan client based on CoAP Californium" />
+          <property key="-exportcontents" value="*" />
+          <property key="Import-Package" value="*" />
+          <property key="Bundle-Name" value="leshan - client californium" />
+        </additionalProperties>
+        <additionalJARContents />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <content url="file://$MODULE_DIR$/../src/main/java">
+      <sourceFolder url="file://$MODULE_DIR$/../src/main/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../src/main/resources">
+      <sourceFolder url="file://$MODULE_DIR$/../src/main/resources" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../src/test/java">
+      <sourceFolder url="file://$MODULE_DIR$/../src/test/java" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="leshan-core-cf" />
+    <orderEntry type="module" module-name="leshan-core" />
+    <orderEntry type="library" name="Maven: com.eclipsesource.minimal-json:minimal-json:0.9.5" level="project" />
+    <orderEntry type="module" module-name="leshan-client-core" />
+    <orderEntry type="library" name="Maven: org.eclipse.californium:californium-core:2.0.0-M17" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.eclipse.californium:californium-legal:2.0.0-M17" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.californium:element-connector:2.0.0-M17" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.californium:element-connector:test-jar:tests:2.0.0-M17" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.californium:scandium:2.0.0-M17" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: ch.qos.logback:logback-classic:1.2.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: ch.qos.logback:logback-core:1.2.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+  </component>
+</module>

@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80acaa59-94ec-45a5-9786-2078ec4ed568" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-server/src/main/java/org/eclipse/leshan/server/discovery/demo/DiscoveryServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-server/src/test/java/tech/theitservice/discoveryserver/DiscoveryServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/SpringbootLeshanBootstrapServerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/SpringbootLeshanServerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/eclipse-code-style.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/eclipse-code-style.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jar-with-dependencies-with-logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jar-with-dependencies-with-logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/logback-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-bsserver-demo/logback-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-bsserver-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/BootstrapConfigSecurityStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/BootstrapConfigSecurityStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/JSONFileBootstrapStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/JSONFileBootstrapStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/LeshanBootstrapServerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/LeshanBootstrapServerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/json/PublicKeySerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/json/PublicKeySerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/json/SecuritySerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/json/SecuritySerializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/json/X509CertificateSerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/json/X509CertificateSerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/servlet/BootstrapServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/servlet/BootstrapServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/servlet/ServerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/servlet/ServerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/css/lw-app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/img/fav_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/js/bsconfigstore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/js/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/tag/bootstrap-modal.tag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/tag/bootstrap.tag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/tag/psk-input.tag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/tag/rpk-input.tag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/tag/securityconfig-input.tag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/tag/x509-input.tag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/js/FileSaver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/js/FileSaver.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/js/jquery-2.1.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/js/jquery-2.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/js/jquery-2.1.1.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/js/riot+compiler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/js/riot+compiler.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/js/riot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/webapp/vendor/js/riot.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-cf/logback-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-cf/logback-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-cf/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-cf/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/LeshanClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/LeshanClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/LeshanClientBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/LeshanClientBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/BootstrapResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/BootstrapResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/CaliforniumEndpointsManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/CaliforniumEndpointsManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/CaliforniumLwM2mRequestSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/CaliforniumLwM2mRequestSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/CoapRequestBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/CoapRequestBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/LwM2mClientCoapResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/LwM2mClientCoapResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/LwM2mClientResponseBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/LwM2mClientResponseBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/ObjectResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/ObjectResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/ResourceObserveFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/ResourceObserveFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/RootResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/RootResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/SecurityObjectPskStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-cf/src/main/java/org/eclipse/leshan/client/californium/impl/SecurityObjectPskStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/logback-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/logback-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/LwM2mClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/LwM2mClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/object/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/object/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/object/Security.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/object/Security.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/object/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/object/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/observer/LwM2mClientObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/observer/LwM2mClientObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/observer/LwM2mClientObserverAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/observer/LwM2mClientObserverAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/observer/LwM2mClientObserverDispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/observer/LwM2mClientObserverDispatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/request/LwM2mRequestSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/request/LwM2mRequestSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/request/ServerIdentity.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/request/ServerIdentity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/BaseInstanceEnabler.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/BaseInstanceEnabler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/BaseInstanceEnablerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/BaseInstanceEnablerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/BaseObjectEnabler.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/BaseObjectEnabler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/DummyInstanceEnabler.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/DummyInstanceEnabler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/LwM2mInstanceEnabler.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/LwM2mInstanceEnabler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/LwM2mInstanceEnablerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/LwM2mInstanceEnablerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/LwM2mObjectEnabler.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/LwM2mObjectEnabler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/NotifySender.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/NotifySender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/ObjectEnabler.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/ObjectEnabler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/ObjectsInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/ObjectsInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/ResourceChangedListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/ResourceChangedListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/SimpleInstanceEnabler.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/resource/SimpleInstanceEnabler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/BootstrapHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/BootstrapHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/BootstrapListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/BootstrapListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/DmServerInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/DmServerInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/EndpointsManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/EndpointsManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/RegistrationEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/RegistrationEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/ServerInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/ServerInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/ServersInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/ServersInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/ServersInfoExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/servers/ServersInfoExtractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/util/LinkFormatHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/main/java/org/eclipse/leshan/client/util/LinkFormatHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/test/java/org/eclipse/leshan/client/util/BaseInstanceEnablerFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/test/java/org/eclipse/leshan/client/util/BaseInstanceEnablerFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/test/java/org/eclipse/leshan/client/util/LinkFormatHelperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/test/java/org/eclipse/leshan/client/util/LinkFormatHelperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/test/java/org/eclipse/leshan/client/util/ObjectEnablerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/test/java/org/eclipse/leshan/client/util/ObjectEnablerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/test/java/org/eclipse/leshan/client/util/ObjectsInitializerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/test/java/org/eclipse/leshan/client/util/ObjectsInitializerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-core/src/test/java/org/eclipse/leshan/client/util/ServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-core/src/test/java/org/eclipse/leshan/client/util/ServerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-demo/src/main/java/org/eclipse/leshan/client/demo/LeshanClientDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-demo/src/main/java/org/eclipse/leshan/client/demo/LeshanClientDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-demo/src/main/java/org/eclipse/leshan/client/demo/MyDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-demo/src/main/java/org/eclipse/leshan/client/demo/MyDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-demo/src/main/java/org/eclipse/leshan/client/demo/MyLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-demo/src/main/java/org/eclipse/leshan/client/demo/MyLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-demo/src/main/java/org/eclipse/leshan/client/demo/RandomTemperatureSensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-demo/src/main/java/org/eclipse/leshan/client/demo/RandomTemperatureSensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-client-demo/src/main/resources/models/3303.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-client-demo/src/main/resources/models/3303.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core-cf/logback-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core-cf/logback-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core-cf/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core-cf/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/AbstractRequestObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/AbstractRequestObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/AsyncRequestObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/AsyncRequestObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/CoapAsyncRequestObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/CoapAsyncRequestObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/CoapResponseCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/CoapResponseCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/CoapSyncRequestObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/CoapSyncRequestObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/DefaultEndpointFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/DefaultEndpointFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/EndpointContextUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/EndpointContextUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/EndpointFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/EndpointFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/LwM2mCoapResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/LwM2mCoapResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/Lwm2mEndpointContextMatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/Lwm2mEndpointContextMatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/ResponseCodeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/ResponseCodeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/SyncRequestObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core-cf/src/main/java/org/eclipse/leshan/core/californium/SyncRequestObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core-cf/src/test/java/org/eclipse/leshan/core/californium/ResponseCodeUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core-cf/src/test/java/org/eclipse/leshan/core/californium/ResponseCodeUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/logback-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/logback-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/Link.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/Link.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/LwM2m.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/LwM2m.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/LwM2mId.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/LwM2mId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/ResponseCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/ResponseCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/SecurityMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/SecurityMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/attributes/AccessMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/attributes/AccessMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/attributes/AssignationLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/attributes/AssignationLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/attributes/Attachment.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/attributes/Attachment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/attributes/Attribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/attributes/Attribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/attributes/AttributeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/attributes/AttributeSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/credentials/CredentialsReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/credentials/CredentialsReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/DDFFileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/DDFFileParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/Ddf2JsonGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/Ddf2JsonGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/LwM2mModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/LwM2mModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/LwM2mModelRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/LwM2mModelRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/ObjectLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/ObjectLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/ObjectModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/ObjectModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/ResourceModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/ResourceModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/StaticModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/StaticModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/json/JsonSerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/json/JsonSerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/json/ObjectModelSerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/json/ObjectModelSerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/json/ResourceModelSerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/model/json/ResourceModelSerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/LwM2mMultipleResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/LwM2mMultipleResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/LwM2mNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/LwM2mNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/LwM2mNodeVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/LwM2mNodeVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/LwM2mObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/LwM2mObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/LwM2mObjectInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/LwM2mObjectInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/LwM2mPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/LwM2mPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/LwM2mResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/LwM2mResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/LwM2mSingleResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/LwM2mSingleResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/ObjectLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/ObjectLink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/TimestampedLwM2mNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/TimestampedLwM2mNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/CodecException.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/CodecException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/DefaultLwM2mNodeDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/DefaultLwM2mNodeDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/DefaultLwM2mNodeEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/DefaultLwM2mNodeEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/LwM2mNodeDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/LwM2mNodeDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/LwM2mNodeEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/LwM2mNodeEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/LwM2mValueChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/LwM2mValueChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/LwM2mValueConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/LwM2mValueConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/json/LwM2mNodeJsonDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/json/LwM2mNodeJsonDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/json/LwM2mNodeJsonEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/json/LwM2mNodeJsonEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/opaque/LwM2mNodeOpaqueDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/opaque/LwM2mNodeOpaqueDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/opaque/LwM2mNodeOpaqueEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/opaque/LwM2mNodeOpaqueEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/text/LwM2mNodeTextDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/text/LwM2mNodeTextDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/text/LwM2mNodeTextEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/text/LwM2mNodeTextEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/tlv/LwM2mNodeTlvDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/tlv/LwM2mNodeTlvDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/tlv/LwM2mNodeTlvEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/node/codec/tlv/LwM2mNodeTlvEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/observation/Observation.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/observation/Observation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/AbstractDownlinkRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/AbstractDownlinkRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/BindingMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/BindingMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/BootstrapDeleteRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/BootstrapDeleteRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/BootstrapFinishRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/BootstrapFinishRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/BootstrapRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/BootstrapRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/BootstrapWriteRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/BootstrapWriteRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/CancelObservationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/CancelObservationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/ContentFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/ContentFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/CreateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/CreateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/DeleteRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/DeleteRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/DeregisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/DeregisterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/DiscoverRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/DiscoverRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/DownLinkRequestVisitorAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/DownLinkRequestVisitorAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/DownlinkRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/DownlinkRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/DownlinkRequestVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/DownlinkRequestVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/ExecuteRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/ExecuteRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/Identity.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/Identity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/LwM2mRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/LwM2mRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/ObserveRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/ObserveRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/ReadRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/ReadRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/RegisterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/UpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/UpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/UplinkRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/UplinkRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/UplinkRequestVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/UplinkRequestVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/WriteAttributesRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/WriteAttributesRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/WriteRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/WriteRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/exception/ClientSleepingException.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/exception/ClientSleepingException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/exception/InvalidRequestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/exception/InvalidRequestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/exception/InvalidResponseException.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/exception/InvalidResponseException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/exception/SendFailedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/exception/SendFailedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/exception/TimeoutException.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/request/exception/TimeoutException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/AbstractLwM2mResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/AbstractLwM2mResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/BootstrapDeleteResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/BootstrapDeleteResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/BootstrapFinishResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/BootstrapFinishResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/BootstrapResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/BootstrapResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/BootstrapWriteResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/BootstrapWriteResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/CancelObservationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/CancelObservationResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/CreateResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/CreateResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/DeleteResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/DeleteResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/DeregisterResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/DeregisterResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/DiscoverResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/DiscoverResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/ErrorCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/ErrorCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/ExecuteResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/ExecuteResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/LwM2mResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/LwM2mResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/ObserveResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/ObserveResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/ReadResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/ReadResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/RegisterResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/RegisterResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/ResponseCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/ResponseCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/SendableResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/SendableResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/UpdateResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/UpdateResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/WriteAttributesResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/WriteAttributesResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/WriteResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/core/response/WriteResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/json/JsonArrayEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/json/JsonArrayEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/json/JsonArrayEntrySerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/json/JsonArrayEntrySerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/json/JsonRootObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/json/JsonRootObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/json/JsonRootObjectSerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/json/JsonRootObjectSerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/json/LwM2mJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/json/LwM2mJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/json/LwM2mJsonException.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/json/LwM2mJsonException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/tlv/Tlv.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/tlv/Tlv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/tlv/TlvDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/tlv/TlvDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/tlv/TlvEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/tlv/TlvEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/tlv/TlvException.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/tlv/TlvException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/util/Base64.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/util/Base64.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/util/BaseNCodec.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/util/BaseNCodec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/util/Hex.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/util/Hex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/util/NamedThreadFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/util/NamedThreadFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/util/RandomStringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/util/RandomStringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/util/SecurityUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/util/SecurityUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/util/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/util/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/util/Validate.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/java/org/eclipse/leshan/util/Validate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/resources/models/LWM2M_Access_Control-v1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/resources/models/LWM2M_Access_Control-v1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/resources/models/LWM2M_Connectivity_Monitoring-v1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/resources/models/LWM2M_Connectivity_Monitoring-v1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/resources/models/LWM2M_Connectivity_Statistics-v1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/resources/models/LWM2M_Connectivity_Statistics-v1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/resources/models/LWM2M_Device-v1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/resources/models/LWM2M_Device-v1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/resources/models/LWM2M_Firmware_Update-v1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/resources/models/LWM2M_Firmware_Update-v1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/resources/models/LWM2M_Location-v1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/resources/models/LWM2M_Location-v1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/resources/models/LWM2M_Security-v1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/resources/models/LWM2M_Security-v1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/main/resources/models/LWM2M_Server-v1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/main/resources/models/LWM2M_Server-v1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/LinkObjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/LinkObjectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/core/attributes/AttributeSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/core/attributes/AttributeSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/core/node/LwM2MResourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/core/node/LwM2MResourceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/core/node/codec/LwM2mNodeDecoderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/core/node/codec/LwM2mNodeDecoderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/core/node/codec/LwM2mNodeEncoderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/core/node/codec/LwM2mNodeEncoderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/json/JsonDeserializerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/json/JsonDeserializerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/json/JsonSerializerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/json/JsonSerializerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/json/ObjectModelSerDesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/json/ObjectModelSerDesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/tlv/TlvDecoderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/tlv/TlvDecoderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/tlv/TlvEncoderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-core/src/test/java/org/eclipse/leshan/tlv/TlvEncoderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/logback-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/logback-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/BootstrapIntegrationTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/BootstrapIntegrationTestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/BootstrapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/BootstrapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/Callback.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/Callback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/CreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/CreateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/DeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/DeleteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/DiscoverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/DiscoverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/ExecuteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/ExecuteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/FailingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/FailingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/IntegrationTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/IntegrationTestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/LockStepLwM2mClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/LockStepLwM2mClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/ObserveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/ObserveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/PresenceCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/PresenceCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/QueueModeIntegrationTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/QueueModeIntegrationTestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/QueueModeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/QueueModeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/ReadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/ReadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/RedisIntegrationTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/RedisIntegrationTestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/RedisObserveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/RedisObserveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/RedisRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/RedisRegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/RedisSecureIntegrationTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/RedisSecureIntegrationTestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/RedisSecurityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/RedisSecurityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/RegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/RegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/SecureIntegrationTestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/SecureIntegrationTestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/SecurityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/SecurityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/SinglePSKStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/SinglePSKStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/SynchronousClientObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/SynchronousClientObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/SynchronousPresenceListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/SynchronousPresenceListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/SynchronousRegistrationListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/SynchronousRegistrationListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/WriteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-integration-tests/src/test/java/org/eclipse/leshan/integration/tests/WriteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/logback-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/logback-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/CaliforniumRegistrationStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/CaliforniumRegistrationStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/CoapRequestSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/CoapRequestSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/LeshanBootstrapServerBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/LeshanBootstrapServerBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/LeshanServerBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/LeshanServerBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/ObserveUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/ObserveUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/BootstrapResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/BootstrapResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/CaliforniumLwM2mBootstrapRequestSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/CaliforniumLwM2mBootstrapRequestSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/CaliforniumLwM2mRequestSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/CaliforniumLwM2mRequestSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/CaliforniumQueueModeRequestSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/CaliforniumQueueModeRequestSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/CoapRequestBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/CoapRequestBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/InMemoryRegistrationStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/InMemoryRegistrationStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/LeshanBootstrapServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/LeshanBootstrapServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/LeshanServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/LeshanServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/LwM2mBootstrapPskStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/LwM2mBootstrapPskStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/LwM2mPskStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/LwM2mPskStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/LwM2mResponseBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/LwM2mResponseBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/ObservationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/ObservationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/RegisterResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/RegisterResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/RootResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/main/java/org/eclipse/leshan/server/californium/impl/RootResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/LeshanBootstrapServerBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/LeshanBootstrapServerBuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/LeshanServerBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/LeshanServerBuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/impl/CaliforniumTestSupport.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/impl/CaliforniumTestSupport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/impl/CoapRequestBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/impl/CoapRequestBuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/impl/InMemoryRegistrationStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/impl/InMemoryRegistrationStoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/impl/ObservationServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/impl/ObservationServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cluster/logback-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cluster/logback-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cluster/logback-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cluster/logback-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cluster/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cluster/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/LeshanClusterServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/LeshanClusterServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisRegistrationEventPublisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisRegistrationEventPublisher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisRequestResponseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisRequestResponseHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisTokenHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisTokenHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/DownlinkRequestSerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/DownlinkRequestSerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/LwM2mNodeSerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/LwM2mNodeSerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/RegistrationUpdateSerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/RegistrationUpdateSerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/ResponseSerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/ResponseSerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/ValueSerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/ValueSerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cluster/src/test/java/org/eclipse/leshan/server/cluster/serialization/DownlinkRequestSerDesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cluster/src/test/java/org/eclipse/leshan/server/cluster/serialization/DownlinkRequestSerDesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-cluster/src/test/java/org/eclipse/leshan/server/cluster/serialization/RegistrationUpdateSerDesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-cluster/src/test/java/org/eclipse/leshan/server/cluster/serialization/RegistrationUpdateSerDesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/logback-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/logback-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/Destroyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/Destroyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/LwM2mServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/LwM2mServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/Startable.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/Startable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/Stoppable.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/Stoppable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/Version.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/Version.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/BootstrapConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/BootstrapConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/BootstrapConfigStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/BootstrapConfigStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/BootstrapFailureCause.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/BootstrapFailureCause.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/BootstrapHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/BootstrapHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/BootstrapHandlerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/BootstrapHandlerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/BootstrapSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/BootstrapSession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/BootstrapSessionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/BootstrapSessionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/BootstrapUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/BootstrapUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/ConfigurationChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/ConfigurationChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/DefaultBootstrapHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/DefaultBootstrapHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/EditableBootstrapConfigStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/EditableBootstrapConfigStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/InMemoryBootstrapConfigStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/InMemoryBootstrapConfigStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/InvalidConfigurationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/InvalidConfigurationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/LwM2mBootstrapRequestSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/LwM2mBootstrapRequestSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/LwM2mBootstrapServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/LwM2mBootstrapServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/SmsSecurityMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/bootstrap/SmsSecurityMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/impl/DefaultBootstrapSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/impl/DefaultBootstrapSession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/impl/DefaultBootstrapSessionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/impl/DefaultBootstrapSessionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/impl/FileSecurityStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/impl/FileSecurityStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/impl/InMemorySecurityStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/impl/InMemorySecurityStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/impl/RegistrationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/impl/RegistrationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/model/LwM2mModelProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/model/LwM2mModelProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/model/StandardModelProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/model/StandardModelProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/model/StaticModelProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/model/StaticModelProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/model/VersionedModelProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/model/VersionedModelProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/observation/ObservationListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/observation/ObservationListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/observation/ObservationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/observation/ObservationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/ClientAwakeTimeProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/ClientAwakeTimeProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/Presence.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/Presence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/PresenceListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/PresenceListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/PresenceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/PresenceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/PresenceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/PresenceServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/PresenceStateListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/PresenceStateListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/PresenceStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/PresenceStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/QueueModeLwM2mRequestSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/QueueModeLwM2mRequestSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/StaticClientAwakeTimeProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/queue/StaticClientAwakeTimeProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/Deregistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/Deregistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/ExpirationListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/ExpirationListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/Registration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/RegistrationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/RegistrationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/RegistrationIdProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/RegistrationIdProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/RegistrationListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/RegistrationListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/RegistrationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/RegistrationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/RegistrationStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/RegistrationStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/RegistrationUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/RegistrationUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/UpdatedRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/registration/UpdatedRegistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/request/LwM2mRequestSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/request/LwM2mRequestSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/security/Authorizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/security/Authorizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/security/BootstrapSecurityStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/security/BootstrapSecurityStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/security/DefaultAuthorizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/security/DefaultAuthorizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/security/EditableSecurityStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/security/EditableSecurityStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/security/NonUniqueSecurityInfoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/security/NonUniqueSecurityInfoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/security/SecurityChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/security/SecurityChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/security/SecurityInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/security/SecurityInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/security/SecurityStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/main/java/org/eclipse/leshan/server/security/SecurityStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/test/java/org/eclipse/leshan/server/SerializationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/test/java/org/eclipse/leshan/server/SerializationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/test/java/org/eclipse/leshan/server/SerializationUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/test/java/org/eclipse/leshan/server/SerializationUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/test/java/org/eclipse/leshan/server/bootstrap/BootstrapHandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/test/java/org/eclipse/leshan/server/bootstrap/BootstrapHandlerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/test/java/org/eclipse/leshan/server/queue/PresenceServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/test/java/org/eclipse/leshan/server/queue/PresenceServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/test/java/org/eclipse/leshan/server/registration/RegistrationSortObjectLinksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/test/java/org/eclipse/leshan/server/registration/RegistrationSortObjectLinksTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/test/java/org/eclipse/leshan/server/registration/RegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/test/java/org/eclipse/leshan/server/registration/RegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-core/src/test/java/org/eclipse/leshan/server/registration/RegistrationUpdateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-core/src/test/java/org/eclipse/leshan/server/registration/RegistrationUpdateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/logback-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/logback-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/LeshanServerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/LeshanServerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/ClientServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/ClientServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/EventServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/EventServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/ObjectSpecServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/ObjectSpecServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/SecurityServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/SecurityServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/LwM2mNodeDeserializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/LwM2mNodeDeserializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/LwM2mNodeSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/LwM2mNodeSerializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/PublicKeySerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/PublicKeySerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/RegistrationSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/RegistrationSerializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/ResponseSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/ResponseSerializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/SecurityDeserializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/SecurityDeserializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/SecuritySerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/SecuritySerializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/X509CertificateSerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/json/X509CertificateSerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/log/CoapMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/log/CoapMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/log/CoapMessageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/log/CoapMessageListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/log/CoapMessageTracer.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/log/CoapMessageTracer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/utils/EventSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/utils/EventSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/utils/EventSourceServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/utils/EventSourceServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/utils/MagicLwM2mValueConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/utils/MagicLwM2mValueConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10241.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10241.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10242.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10242.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10243.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10243.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10244.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10244.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10245.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10245.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10246.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10246.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10247.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10247.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10248.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10248.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10249.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10249.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10250.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/10250.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2048.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2048.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2049.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2049.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2050.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2050.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2051.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2051.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2052.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2052.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2053.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2053.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2054.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2054.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2055.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2055.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2056.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2056.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2057.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/2057.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/31024.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/31024.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3200.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3200.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3201.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3201.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3202.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3202.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3203.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3203.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3300.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3300.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3301.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3301.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3302.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3302.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3303.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3303.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3304.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3304.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3305.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3305.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3306.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3306.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3308.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3308.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3310.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3310.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3311.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3311.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3312.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3312.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3313.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3313.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3314.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3314.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3315.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3315.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3316.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3316.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3317.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3317.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3318.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3318.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3319.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3319.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3320.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3320.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3321.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3321.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3322.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3322.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3323.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3323.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3324.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3324.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3325.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3325.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3326.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3326.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3327.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3327.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3328.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3328.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3329.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3329.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3330.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3330.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3331.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3331.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3332.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3332.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3333.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3333.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3334.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3334.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3335.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3335.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3336.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3336.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3337.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3337.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3338.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3338.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3339.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3339.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3340.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3340.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3341.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3341.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3342.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3342.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3343.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3343.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3344.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3344.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3345.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3345.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3346.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3346.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3347.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3347.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3348.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3348.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3349.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3349.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3350.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/3350.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/Communication_Characteristics-V1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/Communication_Characteristics-V1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_APN_connection_profile-v1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_APN_connection_profile-v1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_Bearer_selection-v1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_Bearer_selection-v1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_Cellular_connectivity-v1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_Cellular_connectivity-v1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_DevCapMgmt-v1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_DevCapMgmt-v1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_Lock_and_Wipe-V1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_Lock_and_Wipe-V1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_Portfolio-v1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_Portfolio-v1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_Software_Component-v1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_Software_Component-v1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_Software_Management-v1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_Software_Management-v1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_WLAN_connectivity4-v1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/LWM2M_WLAN_connectivity4-v1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/Non-Access_Stratum_NAS_configuration-V1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/models/Non-Access_Stratum_NAS_configuration-V1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/css/lw-app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/img/fav_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/js/client-controllers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/js/helper-services.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/js/instance-directives.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/js/lw-resources-services.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/js/modal-instance-controllers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/js/object-directives.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/js/resource-directives.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/js/resource-form-directives.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/js/security-controllers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/js/ui-dialog-services.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/partials/client-detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/partials/client-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/partials/instance.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/partials/modal-instance.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/partials/object.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/partials/resource-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/partials/resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/partials/security-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/js/FileSaver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/js/FileSaver.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/js/angular-route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/js/angular-route.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/js/angular-route.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/js/angular.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/js/angular.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/js/angular.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/js/jquery-2.1.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/js/jquery-2.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/js/jquery-2.1.1.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/js/ui-bootstrap-tpls-0.12.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/vendor/js/ui-bootstrap-tpls-0.12.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-redis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/RedisLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/RedisLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/RedisRegistrationStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/RedisRegistrationStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/RedisSecurityStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/RedisSecurityStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/serialization/EndpointContextSerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/serialization/EndpointContextSerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/serialization/IdentitySerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/serialization/IdentitySerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/serialization/ObservationSerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/serialization/ObservationSerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/serialization/RegistrationSerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/serialization/RegistrationSerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/serialization/SecurityInfoSerDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/serialization/SecurityInfoSerDes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-redis/src/test/java/org/eclipse/leshan/server/redis/serialization/RegistrationSerDesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-redis/src/test/java/org/eclipse/leshan/server/redis/serialization/RegistrationSerDesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leshan-server-redis/src/test/java/org/eclipse/leshan/server/redis/serialization/SecurityInfoSerDesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leshan-server-redis/src/test/java/org/eclipse/leshan/server/redis/serialization/SecurityInfoSerDesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notice.html" beforeDir="false" afterPath="$PROJECT_DIR$/notice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/leshan-integration-tests/target/" />
+    <ignored path="$PROJECT_DIR$/leshan-server-redis/target/" />
+    <ignored path="$PROJECT_DIR$/leshan-bsserver-demo/target/" />
+    <ignored path="$PROJECT_DIR$/leshan-core-cf/target/" />
+    <ignored path="$PROJECT_DIR$/leshan-client-cf/target/" />
+    <ignored path="$PROJECT_DIR$/leshan-server-cluster/target/" />
+    <ignored path="$PROJECT_DIR$/leshan-client-core/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/leshan-server-core/target/" />
+    <ignored path="$PROJECT_DIR$/leshan-client-demo/target/" />
+    <ignored path="$PROJECT_DIR$/leshan-core/target/" />
+    <ignored path="$PROJECT_DIR$/leshan-server-demo/target/" />
+    <ignored path="$PROJECT_DIR$/leshan-server-cf/target/" />
+    <ignored path="$PROJECT_DIR$/discovery-server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/SpringbootLeshanServerDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="124" column="9" selection-end-line="469" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/WebConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/SpringbootLeshanBootstrapServerDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leshan-bsserver-demo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="121" column="115" selection-start-line="121" selection-start-column="115" selection-end-line="121" selection-end-column="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="48">
+                <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/discovery-server/src/main/java/org/eclipse/leshan/server/discovery/demo/DiscoveryServerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leshan-server-demo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="138" column="96" selection-start-line="138" selection-start-column="96" selection-end-line="138" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/WebConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Bean</find>
+      <find>gson</find>
+      <find>Test</find>
+      <find>_serverCertificate</find>
+      <find>modelProvider</find>
+      <find>registrationService</find>
+      <find>EditableSecurityStore</find>
+      <find>LeshanServer</find>
+      <find>LwM2mServer</find>
+      <find>hudson</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/LeshanServerDemo.java" />
+        <option value="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/LeshanBootstrapServerDemo.java" />
+        <option value="$PROJECT_DIR$/leshan-server-demo/target/classes/application.properties" />
+        <option value="$PROJECT_DIR$/leshan-server-demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/leshan-bsserver-demo/target/classes/application.properties" />
+        <option value="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/WebConfig.java" />
+        <option value="$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/SpringbootLeshanServerDemo.java" />
+        <option value="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/WebConfig.java" />
+        <option value="$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/SpringbootLeshanBootstrapServerDemo.java" />
+        <option value="$PROJECT_DIR$/discovery-server/src/main/java/org/eclipse/leshan/server/discovery/demo/DiscoveryServerApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/leshan-bsserver-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/leshan-server-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="discovery-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="discovery-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="leshan - bootstrap server demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="leshan - bootstrap server demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1247" />
+    <option name="y" value="-1355" />
+    <option name="width" value="1976" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leshan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-leshan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leshan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-leshan" type="462c0819:PsiDirectoryNode" />
+              <item name="leshan-bsserver-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leshan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-leshan" type="462c0819:PsiDirectoryNode" />
+              <item name="leshan-bsserver-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leshan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-leshan" type="462c0819:PsiDirectoryNode" />
+              <item name="leshan-bsserver-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leshan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-leshan" type="462c0819:PsiDirectoryNode" />
+              <item name="leshan-bsserver-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leshan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-leshan" type="462c0819:PsiDirectoryNode" />
+              <item name="leshan-client-cf" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/discovery-server/src/main/java/org/eclipse/leshan/server/discovery/demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/leshan-server-demo/src/main/resources" />
+      <recent name="$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DiscoveryServerApplication">
+    <configuration name="DiscoveryServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.eclipse.leshan.server.discovery.demo.DiscoveryServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootLeshanBootstrapServerDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leshan-bsserver-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.eclipse.leshan.server.bootstrap.demo.SpringbootLeshanBootstrapServerDemo" />
+      <option name="PROGRAM_PARAMETERS" value="-wp 8081 -wh 10.0.0.244 -lh 10.0.0.244 -slh 10.0.0.244 -lp 5680 -slp 5681" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootLeshanServerDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leshan-server-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.eclipse.leshan.server.demo.SpringbootLeshanServerDemo" />
+      <option name="PROGRAM_PARAMETERS" value="-wp 8081 -wh 10.0.0.200 -lh 10.0.0.200 -slh 10.0.0.200 -lp 5683 -slp 5684" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringbootLeshanBootstrapServerDemo" />
+      <item itemvalue="Spring Boot.SpringbootLeshanServerDemo" />
+      <item itemvalue="Spring Boot.DiscoveryServerApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80acaa59-94ec-45a5-9786-2078ec4ed568" name="Default Changelist" comment="" />
+      <created>1568266152796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568266152796</updated>
+      <workItem from="1568266156582" duration="19501000" />
+      <workItem from="1568679089589" duration="1950000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21451000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1247" y="-1355" width="1976" height="977" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49830508" visible="true" weight="0.2523268" />
+      <window_info id="Structure" order="1" sideWeight="0.5016949" side_tool="true" visible="true" weight="0.2523268" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299435" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299435" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3299435" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.22802483" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/SpringbootLeshanBootstrapServerDemo.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/SpringbootLeshanBootstrapServerDemo.java</url>
+          <line>187</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/resources/webapp/index.html" />
+    <entry file="file://$PROJECT_DIR$/data/readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/bootstrap.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3867">
+          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/LeshanBootstrapServerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="226" column="16" lean-forward="true" selection-start-line="226" selection-start-column="16" selection-end-line="226" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/EventServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="153" column="59" selection-start-line="153" selection-start-column="24" selection-end-line="153" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/SecurityServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="64" column="89" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/ObjectSpecServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="40" column="102" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/servlet/ClientServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="90" column="25" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/target/classes/application.properties" />
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-bsserver-demo/target/classes/application.properties" />
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/LeshanServerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="411" column="68" selection-start-line="411" selection-start-column="50" selection-end-line="411" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/leshan/server/discovery/demo/demo/DemoApplication.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/eclipse/leshan/server/discovery/demo/demo/DemoApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/SpringbootLeshanServerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="124" column="9" selection-end-line="469" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/SpringbootLeshanBootstrapServerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery-server/src/main/java/org/eclipse/leshan/server/discovery/demo/DiscoveryServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-bsserver-demo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/src/main/java/org/eclipse/leshan/server/demo/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="56" column="78" selection-start-line="56" selection-start-column="78" selection-end-line="56" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-bsserver-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="121" column="115" selection-start-line="121" selection-start-column="115" selection-end-line="121" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leshan-server-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="138" column="96" selection-start-line="138" selection-start-column="96" selection-end-line="138" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="48">
+            <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>leshan-server-demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

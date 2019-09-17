@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="Osmorc" url="file://$PROJECT_DIR$/leshan-client-cf" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/leshan-client-core" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/leshan-core" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/leshan-core-cf" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/leshan-server-cf" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/leshan-server-cluster" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/leshan-server-core" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/leshan-server-redis" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/src/main/java" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/src/main/resources" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/src/test/java" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>

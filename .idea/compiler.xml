@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="leshan-integration-tests" />
+        <module name="leshan-bsserver-demo" />
+        <module name="leshan-client-core" />
+        <module name="leshan-server-cluster" />
+        <module name="leshan-server-redis" />
+        <module name="leshan-server-core" />
+        <module name="leshan-core" />
+        <module name="discovery-server" />
+        <module name="leshan-client-demo" />
+        <module name="leshan-client-cf" />
+        <module name="leshan-server-cf" />
+        <module name="leshan-core-cf" />
+        <module name="leshan-server-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="discovery-server" target="1.8" />
+      <module name="discovery-server-demo" target="1.5" />
+      <module name="leshan" target="1.5" />
+      <module name="leshan-bsserver-demo" target="1.7" />
+      <module name="leshan-client-cf" target="1.7" />
+      <module name="leshan-client-core" target="1.7" />
+      <module name="leshan-client-demo" target="1.7" />
+      <module name="leshan-core" target="1.7" />
+      <module name="leshan-core-cf" target="1.7" />
+      <module name="leshan-integration-tests" target="1.7" />
+      <module name="leshan-server-cf" target="1.7" />
+      <module name="leshan-server-cluster" target="1.7" />
+      <module name="leshan-server-core" target="1.7" />
+      <module name="leshan-server-demo" target="1.7" />
+      <module name="leshan-server-redis" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="discovery-server" options="-parameters" />
+    </option>
+  </component>
+</project>

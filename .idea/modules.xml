@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/discovery-server/discovery-server.iml" filepath="$PROJECT_DIR$/discovery-server/discovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery-server-demo.iml" filepath="$PROJECT_DIR$/discovery-server-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leshan.iml" filepath="$PROJECT_DIR$/leshan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leshan-bsserver-demo/leshan-bsserver-demo.iml" filepath="$PROJECT_DIR$/leshan-bsserver-demo/leshan-bsserver-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leshan-client-cf/leshan-client-cf.iml" filepath="$PROJECT_DIR$/leshan-client-cf/leshan-client-cf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leshan-client-core/leshan-client-core.iml" filepath="$PROJECT_DIR$/leshan-client-core/leshan-client-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leshan-client-demo/leshan-client-demo.iml" filepath="$PROJECT_DIR$/leshan-client-demo/leshan-client-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leshan-core/leshan-core.iml" filepath="$PROJECT_DIR$/leshan-core/leshan-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leshan-core-cf/leshan-core-cf.iml" filepath="$PROJECT_DIR$/leshan-core-cf/leshan-core-cf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leshan-integration-tests/leshan-integration-tests.iml" filepath="$PROJECT_DIR$/leshan-integration-tests/leshan-integration-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leshan-server-cf/leshan-server-cf.iml" filepath="$PROJECT_DIR$/leshan-server-cf/leshan-server-cf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leshan-server-cluster/leshan-server-cluster.iml" filepath="$PROJECT_DIR$/leshan-server-cluster/leshan-server-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leshan-server-core/leshan-server-core.iml" filepath="$PROJECT_DIR$/leshan-server-core/leshan-server-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leshan-server-demo/leshan-server-demo.iml" filepath="$PROJECT_DIR$/leshan-server-demo/leshan-server-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leshan-server-redis/leshan-server-redis.iml" filepath="$PROJECT_DIR$/leshan-server-redis/leshan-server-redis.iml" />
+    </modules>
+  </component>
+</project>

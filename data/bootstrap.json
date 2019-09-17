@@ -1,0 +1,590 @@
+{
+  "urn:imei:352753091123123": {
+    "toDelete": [],
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 6000,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://139.130.42.226:5783",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coap://139.130.42.226:5683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    },
+    "acls": {}
+  },
+  "urn:imei:352753090147594": {
+    "toDelete": [],
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 60,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://139.130.42.226:7783",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coap://139.130.42.226:7683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    },
+    "acls": {}
+  },
+  "urn:imei:867723030489388": {
+    "toDelete": [],
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 3600,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://139.130.42.226:5783",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coap://139.130.42.226:5683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    },
+    "acls": {}
+  },
+  "urn:imei:352753090147743": {
+    "toDelete": [],
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 60000,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://139.130.42.226:5783",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coap://139.130.42.226:5683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    },
+    "acls": {}
+  },
+  "urn:imei:867723030658206": {
+    "toDelete": [],
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 3600,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://139.130.42.226:5783",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coap://139.130.42.226:5683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    },
+    "acls": {}
+  },
+  "urn:imei:35275309014760002": {
+    "toDelete": [],
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 60,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://139.130.42.226:6783",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coap://139.130.42.226:6683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    },
+    "acls": {}
+  },
+  "Test": {
+    "toDelete": [
+      "/0",
+      "/1"
+    ],
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 20,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://localhost:5680",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coap://localhost:5683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    },
+    "acls": {}
+  },
+  "Extel-02": {
+    "toDelete": [],
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 60,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://www.coap-com-au:5783",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coap://www.coap-com-au.com:5683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    },
+    "acls": {}
+  },
+  "urn:imei:352753091123206": {
+    "toDelete": [],
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 6000,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://139.130.42.226:5783",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coap://139.130.42.226:5683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    },
+    "acls": {}
+  },
+  "urn:imei:352753090029875": {
+    "toDelete": [],
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 60,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://139.130.42.226:6783",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coap://139.130.42.226:6683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    },
+    "acls": {}
+  },
+  "EXTEL-01": {
+    "toDelete": [],
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 60,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://10.0.0.244:5680",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coap://10.0.0.200:5683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    },
+    "acls": {}
+  },
+  "urn:imei:867723030516313": {
+    "toDelete": [],
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 3600,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://bss.coap-com-au.com:5783",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coap://dms.coap-com-au.com:5683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    },
+    "acls": {}
+  },
+  "SAM": {
+    "toDelete": [],
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 60,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coap://139.130.42.226:6783",
+        "bootstrapServer": true,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coap://139.130.42.226:6683",
+        "bootstrapServer": false,
+        "securityMode": "NO_SEC",
+        "publicKeyOrId": [],
+        "serverPublicKey": [],
+        "secretKey": [],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    },
+    "acls": {}
+  }
+}
