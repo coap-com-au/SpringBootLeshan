@@ -53,7 +53,7 @@ public class SpringbootLeshanBootstrapServerDemo {
         }
     }
 
-    private static final Logger LOG = LoggerFactory.getLogger(LeshanBootstrapServerDemo.class);
+    private static final Logger LOG = LoggerFactory.getLogger(SpringbootLeshanBootstrapServerDemo.class);
 
     private final static String USAGE = "java -jar leshan-bsserver-demo.jar [OPTION]";
 
